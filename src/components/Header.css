@@ -1,0 +1,25 @@
+.navbar {
+  background-color: aliceblue;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  min-height: 70px;
+  font-family: "Press Start 2P", cursive;
+}
+.navbar h1 {
+  font-size: 2rem;
+}
+ul {
+  list-style: none;
+}
+.navMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
